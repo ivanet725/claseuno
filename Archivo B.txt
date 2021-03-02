@@ -1,0 +1,7 @@
+En esta clase se vio los comandos
+git clone
+git add .
+git status
+git commit
+git log
+git push
