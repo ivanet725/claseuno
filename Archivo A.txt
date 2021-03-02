@@ -1,5 +1,4 @@
 Esta es la primera practica
-y estamos usando el comando
-git status
+y estamos usando el comando statos
 En el archivo b, estan todos los comandos
 visto en esta clase.
